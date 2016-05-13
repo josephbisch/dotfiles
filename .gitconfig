@@ -1,0 +1,10 @@
+[user]
+	email = joseph.bisch@gmail.com
+	name = Joseph Bisch
+[core]
+	editor = vim
+[sendemail]
+	smtpEncryption = tls
+	smtpServer = smtp.google.com
+	smtpUser = joseph.bisch@gmail.com
+	smtpServerPort = 587
