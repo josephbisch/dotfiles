@@ -11,3 +11,6 @@ nmap <F8> :TagbarToggle<CR>
 
 let &colorcolumn=join(range(81,999),",")
 highlight ColorColumn ctermbg=0
+
+set splitbelow
+set splitright
